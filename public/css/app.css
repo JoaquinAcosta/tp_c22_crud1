@@ -459,4 +459,8 @@ textarea.form-input {
     width: 95%;
     margin: auto;
   }
+
+  .button-multer {
+    background-color: red;
+  }
 }

@@ -119,7 +119,7 @@
    {
       "id": 14,
       "name": "Sony S6700 Reproductor De Blu-ray",
-      "description": "Disfruta de tus películas favoritas con hasta cuatro veces más detalles que Full HD, gracias a la conversión de señales 4K. Cuando se conecta a un televisor compatible,un procesador de video avanzado convierte el video estándar en una señal cercana a la resolución 4K (3840 x 2160). Con ocho millones de píxeles, obtendrás imágenes más nítidas y detalladas, y la mayor calidad de la image te permite sentarte más cerca de la pantalla para que te sientas como en el cine.",
+      "description": "Disfruta de tus películas favoritas con hasta cuatro veces más detalles que Full HD, gracias a la conversión de señales 4K. Cuando se conecta a un televisor compatible,un procesador de video avanzado convierte el video estándar en una señal cercana a la resolución 4K (3840 x 2160). Con ocho millones de píxeles, obtendrás imágenes más nítidas y detalladas, y la mayor calidad de la images te permite sentarte más cerca de la pantalla para que te sientas como en el cine.",
       "price": 12999,
       "discount": 5,
       "image": "img-sony-blueray.jpg",
@@ -149,7 +149,7 @@
       "description": "Modelo: gris oscuro Pantalla: 14.0 OLED, WQXGA+ (2880 x 1800) 16:10, 400nits Procesador: Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores) Memoria: 8GB on board Disco: 512GB M.2 NVMe™ PCIe® 4.0 Performance SSD S.O.: Windows 10 home Posee teclado numerico en el screenpad Trae adaptador usb a puerto de red",
       "price": 424.599,
       "discount": 0,
-      "image": "default-image.png",
+      "image": "default-images.png",
       "category": "visited"
    }
 ]
