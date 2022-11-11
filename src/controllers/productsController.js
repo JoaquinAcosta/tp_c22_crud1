@@ -34,7 +34,7 @@ const controller = {
 	store: (req, res) => {
 		// Do the magic
 
-		const {name,price,discount,description,category} = req.body
+		const {name,price,discount,description,category, image} = req.body
 		const products = loadProducts();
 
 		const newProduct = {

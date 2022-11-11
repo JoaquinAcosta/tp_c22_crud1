@@ -149,7 +149,25 @@
       "description": "Modelo: gris oscuro Pantalla: 14.0 OLED, WQXGA+ (2880 x 1800) 16:10, 400nits Procesador: Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores) Memoria: 8GB on board Disco: 512GB M.2 NVMe™ PCIe® 4.0 Performance SSD S.O.: Windows 10 home Posee teclado numerico en el screenpad Trae adaptador usb a puerto de red",
       "price": 424.599,
       "discount": 0,
-      "image": "default-images.png",
+      "image": "default-image.png",
       "category": "visited"
+   },
+   {
+      "id": 18,
+      "name": "",
+      "description": "",
+      "price": 0,
+      "discount": 0,
+      "image": "default-image.png",
+      "category": ""
+   },
+   {
+      "id": 19,
+      "name": "Creatina",
+      "description": "Increible",
+      "price": 6000,
+      "discount": 5,
+      "image": "product-1668133146527.jpeg",
+      "category": "in-sale"
    }
 ]
