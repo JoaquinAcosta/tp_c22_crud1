@@ -1,7 +1,7 @@
 // ************ Require's ************
 const express = require('express');
 const router = express.Router();
-const {uploadImageProducts} =require('../middelword/upLoadFile')
+const {uploadImageProducts} =require('../middleware/upLoadFile')
 
 // ************ Controller Require ************
 const productsController = require('../controllers/productsController');

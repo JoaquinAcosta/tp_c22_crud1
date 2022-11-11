@@ -153,15 +153,6 @@
       "category": "visited"
    },
    {
-      "id": 18,
-      "name": "",
-      "description": "",
-      "price": 0,
-      "discount": 0,
-      "image": "default-image.png",
-      "category": ""
-   },
-   {
       "id": 19,
       "name": "Creatina",
       "description": "Increible",
@@ -169,5 +160,14 @@
       "discount": 5,
       "image": "product-1668133146527.jpeg",
       "category": "in-sale"
+   },
+   {
+      "id": 20,
+      "name": "Aire acondicionado BGH Silent Air split frío/calor",
+      "description": "Climatizar tus espacios a lo largo del año es algo importante para tu comodidad. Un aire acondicionado frío/calor BGH Silent Air es la mejor decisión, ya que conseguís una mejor relación costo-beneficio.",
+      "price": 120000,
+      "discount": 0,
+      "image": "product-1668134452010.webp",
+      "category": "visited"
    }
 ]
